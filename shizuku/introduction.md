@@ -1,3 +1,4 @@
+![InShot_۲۰۲۵۰۷۱۹_۰۰۵۲۱۶۹۵۸](https://github.com/user-attachments/assets/0020e73a-4a30-4551-8c3a-5b947870b49a)
 # Introduction
 
 Shizuku can help normal apps uses system APIs directly with adb/root privileges with a Java process started with app_process.
